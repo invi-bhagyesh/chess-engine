@@ -1,0 +1,12 @@
+.DS_Store
+*.o
+*.tmproj
+*.log
+*.pgn
+*.fen
+*.d
+
+doc
+engine
+
+test/engines
